@@ -1,4 +1,4 @@
-# require libraries/modules here
+ require libraries/modules here
 
 def create_project_hash
   describe 'Backer - ::new' do
