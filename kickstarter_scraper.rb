@@ -1,4 +1,5 @@
- require libraries/modules here
+require_relative '../lib/project'
+require_relative '../lib/backer
 
 def create_project_hash
   describe 'Backer - ::new' do
